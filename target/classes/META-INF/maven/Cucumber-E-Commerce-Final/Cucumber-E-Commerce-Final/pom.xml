@@ -105,8 +105,7 @@
 						<forkCount>3</forkCount>
 						<reuseForks>true</reuseForks>-->
 						<includes>
-							<!--<include>**/Runner*.java</include>-->
-							<!--<include>**/MasterRunner.java</include>-->
+							<include>**/TestRunner.java</include>
 						</includes>
 					</configuration>
 				</plugin>
